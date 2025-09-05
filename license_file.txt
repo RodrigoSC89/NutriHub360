@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2024 NutriApp360
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+==============================================================================
+
+AVISO IMPORTANTE - USO EM APLICAÇÕES MÉDICAS E NUTRICIONAIS:
+
+Este software é fornecido apenas para fins educacionais e de demonstração.
+NÃO deve ser usado como substituto para aconselhamento médico ou nutricional
+profissional.
+
+O desenvolvedor não se responsabiliza por:
+- Decisões médicas ou nutricionais baseadas neste software
+- Possíveis danos resultantes do uso incorreto
+- Precisão dos cálculos nutricionais em casos específicos
+
+SEMPRE consulte profissionais qualificados para orientação médica e 
+nutricional adequada.
+
+Para uso em ambiente clínico ou profissional, recomenda-se:
+- Validação dos cálculos por profissional qualificado
+- Testes extensivos antes do uso em produção
+- Conformidade com regulamentações locais de saúde
+- Backup regular dos dados de pacientes
+- Implementação de medidas de segurança adequadas

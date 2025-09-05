@@ -1,0 +1,103 @@
+# NutriApp360 - .gitignore
+
+# Dados sensíveis do sistema
+data/users.json
+data/patients.json
+data/meal_plans.json
+data/food_diary.json
+data/system_logs.json
+data/patient_progress.json
+
+# Backups e logs
+backups/
+logs/
+*.log
+*.backup
+
+# Configurações sensíveis
+.streamlit/secrets.toml
+config/production.json
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+nutriapp360_env/
+.venv/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# Sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Uploads de usuários
+uploads/
+media/
+static/user_content/
+
+# Certificados e chaves
+*.pem
+*.key
+*.crt
+*.p12
+
+# Arquivos de configuração local
+local_settings.py
+.env
+.env.local
+.env.production
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
