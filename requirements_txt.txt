@@ -1,0 +1,34 @@
+# NutriApp360 - Dependências do Sistema
+# Versão: 1.0.0
+
+# Streamlit - Framework principal
+streamlit>=1.35.0
+
+# Análise de dados
+pandas>=2.2.0
+numpy>=1.24.0
+
+# Visualização
+plotly>=5.20.0
+matplotlib>=3.8.0
+
+# Utilitários de data/hora
+python-dateutil>=2.8.2
+
+# Geração de PDFs (para relatórios)
+fpdf2>=2.7.9
+
+# Monitoramento de arquivos
+watchdog>=3.0.0
+
+# Segurança e hash
+hashlib2>=1.0.1
+
+# Opcional: Para melhor performance
+numba>=0.58.0
+
+# Opcional: Para análises estatísticas avançadas
+scipy>=1.11.0
+
+# Opcional: Para manipulação de imagens
+Pillow>=10.0.0
